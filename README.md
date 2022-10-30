@@ -1,2 +1,7 @@
 # python-lab-5
-Write programs to implement the following operations: a. To elaborate variables and their data types such as int, float, boolean, string, list, set, dictionary and tuples; swap two numbers b. To perform mathematical operations such as addition, subtraction, multiplication, division, modulo, and power; also explore the operator precedence.
+Write Python program
+a. Implement python script to show the usage of various operators available in python
+language.
+b. Write a program to calculate overtime pay of 10 employees. Overtime is paid at the rate
+of Rs.12.00 per hour for every hour worked above 40 hours. Assume that employee do not
+work for fractional part of an hour.
